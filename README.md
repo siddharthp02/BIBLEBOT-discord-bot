@@ -1,13 +1,15 @@
 # discord-bots
 Discord bot in python that will respond in bible quotes whenever a specific user is tagged.
 
-SETUP:
+# SETUP:
 
 Create your own bot profile on discord developer portal. Give it all permissions.
 
 Copy the bot token and replace at the end of the script where specified.
 
 Invite bot to server.
+
+# SET USER TO RESPOND TO
 
 Run the python script, it should say bot is ready.
 
