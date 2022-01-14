@@ -24,10 +24,10 @@ in windows.
 It should say bot is ready.
 
 
-To setup, first tag a user that you want to set the bot to respond to.
+To setup, first tag a user(in the same channel bot is in) that you want to set the bot to respond to.
 
 Check your terminal, copy the user key within the content. Format <'@!lotsofnumbers'>. 
 
-Uncomment the commented if condition line and replace the necessary part with the user key.
+Uncomment the if condition line and replace the necessary part with the user key.
 
 Now run the script again and the bot will now respond with a random line from the list whenever a user is tagged.
