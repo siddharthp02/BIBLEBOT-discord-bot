@@ -1,4 +1,4 @@
-# discord-bots
+# BIBLEBOT-discord-bot
 Discord bot in python that will respond in bible quotes whenever a specific user is tagged.
 
 ## SETUP:
